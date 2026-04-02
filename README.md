@@ -4,8 +4,6 @@
 
 Lightweight terminal system monitor for Linux.
 
-![screenshot](screenshot.png)
-
 ### Features
 
 - Memory & CPU usage with dynamic color thresholds
