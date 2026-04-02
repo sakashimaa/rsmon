@@ -1,5 +1,7 @@
 ## rsmon
 
+<img width="1668" height="1398" alt="image" src="https://github.com/user-attachments/assets/6f8fd4e9-d089-4a53-8685-e6476e66703c" />
+
 Lightweight terminal system monitor for Linux.
 
 ![screenshot](screenshot.png)
